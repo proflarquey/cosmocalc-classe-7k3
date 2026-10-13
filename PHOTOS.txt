@@ -1,0 +1,12 @@
+Crédits des photos de planètes (domaine public, NASA)
+Images NASA non soumises au droit d'auteur ; recadrées et compressées pour Cosmocalc.
+
+mercure.jpg  — NASA / Johns Hopkins APL / Carnegie Institution of Washington — sonde MESSENGER
+venus.jpg    — NASA / JPL — mosaïque radar de la sonde Magellan
+terre.jpg    — NASA — satellite Suomi NPP (instrument VIIRS)
+mars.jpg     — NASA / JPL / Malin Space Science Systems — Mars Global Surveyor
+jupiter.jpg  — NASA / JPL — sonde Voyager 1
+saturne.jpg  — NASA / JPL — sonde Voyager 2
+uranus.jpg   — NASA / JPL — sonde Voyager 2
+neptune.jpg  — NASA / JPL — sonde Voyager 2
+pluton.jpg   — NASA / Johns Hopkins APL / Southwest Research Institute — sonde New Horizons

@@ -1,0 +1,17 @@
+{
+  "name": "Cosmocalc — le calcul mental du CP à la 3e",
+  "short_name": "Cosmocalc",
+  "description": "Entraînement au calcul mental du CP à la 3e : missions, planètes à découvrir et fiches PDF.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0a0f2c",
+  "theme_color": "#0d1128",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
